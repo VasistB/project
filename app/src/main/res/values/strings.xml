@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project hilt</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="clear_filter">clear-filter</string>
+    <string name="city">city:-</string>
+    <string name="state">State:-</string>
+    <string name="country">Country:-</string>
+    <string name="street">Street:-</string>
+</resources>

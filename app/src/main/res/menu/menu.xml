@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuMale"
+        android:title="@string/male"/>
+    <item android:id="@+id/MenuFemale"
+        android:title="@string/female"/>
+   <item android:id="@+id/MenuClearFilter"
+       android:title="@string/clear_filter"/>
+
+</menu>
